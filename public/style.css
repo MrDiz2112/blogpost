@@ -1,0 +1,23 @@
+.form-group, .panel-body, .content .post {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.panel-body {
+
+}
+
+.content .post {
+    margin-bottom: 20px;
+
+    padding: 5px 10px;
+
+    border: 1px solid black;
+    border-radius: 5px;
+
+    background: aliceblue;
+}
+
+.content .post:hover {
+    border: 1px solid orange;
+}
